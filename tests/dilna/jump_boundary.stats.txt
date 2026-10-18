@@ -1,0 +1,7 @@
+ExpL TAC Optimizer statistics
+Source file          : tests/dilna/jump_boundary.tac
+Basic blocks         : 3
+Quads before         : 4
+Quads after          : 4
+Constant foldings    : 0
+CSE eliminations     : 0

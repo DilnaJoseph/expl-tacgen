@@ -1,0 +1,7 @@
+ExpL TAC Optimizer statistics
+Source file          : tests/dilna/roundtrip.tac
+Basic blocks         : 5
+Quads before         : 12
+Quads after          : 12
+Constant foldings    : 0
+CSE eliminations     : 0

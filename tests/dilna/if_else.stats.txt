@@ -1,0 +1,7 @@
+ExpL TAC Optimizer statistics
+Source file          : tests/dilna/if_else.tac
+Basic blocks         : 5
+Quads before         : 11
+Quads after          : 11
+Constant foldings    : 0
+CSE eliminations     : 0

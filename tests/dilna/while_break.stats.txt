@@ -1,0 +1,7 @@
+ExpL TAC Optimizer statistics
+Source file          : tests/dilna/while_break.tac
+Basic blocks         : 8
+Quads before         : 14
+Quads after          : 14
+Constant foldings    : 0
+CSE eliminations     : 0
